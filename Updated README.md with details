@@ -1,0 +1,28 @@
+# Cloud Infrastructure & Security Internship - Week 7
+
+Welcome to my GitHub repository for the **Cloud Infra & Security007** internship. This repository contains research and documentation tasks completed during **Week 6**, focusing on working of internal and external Load Balancers.
+
+---
+
+## Week 7 Task
+
+### 1. Creation of Vnet and Subnets
+- **Crate a Vnet and Subnet for the Resource group** in Microsoft Azure.
+
+### 2. Create VMs
+- **WebVM01, WebVM02, ClientVM** in Microsoft Azure.
+
+### 3. Configuration of VMs
+- **Each VM is configured with NSG rules, IPs, Firewall settings and NginX installation** in Microsoft Azure.
+
+### 4. Creation of Load Balancers
+- **Crate two Load Balancer Internal & External** in Microsoft Azure.
+
+### 5. verification of Load Balancers
+- **Verify each Load Balancers for the working** in Microsoft Azure.
+
+The document is available in PDF format.
+
+You can directly view the pdf by clicking on the document (or) download all the contents as .zip
+
+---
